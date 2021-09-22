@@ -2,3 +2,7 @@ body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding:20px 60px;
 }
+
+.header a{
+  text-decoration: none;
+}
